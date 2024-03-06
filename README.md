@@ -1,5 +1,5 @@
-code implemented in `circuit-breaker.ts`
+Please focus on these files:
 
-testing added in `circuit-breaker.test.ts`
-
-Please note that the UML diagram is quite a rough / fast attempt.
+- code implemented in `circuit-breaker.ts`
+- testing added in `circuit-breaker.test.ts`
+- uml diagram: `uml_diagram.jpg` - please note that the UML diagram is quite a rough / fast attempt.
